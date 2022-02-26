@@ -1,0 +1,16 @@
+body{
+  background: blue;
+  color: white;
+}
+.one{
+  background: yellow;
+}
+.two{
+  background: red;
+}
+.three{
+  background: powderblue;
+}
+.four{
+  background-color: maroon;
+}
